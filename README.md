@@ -1,2 +1,0 @@
-# assets
-GitHub Pages
